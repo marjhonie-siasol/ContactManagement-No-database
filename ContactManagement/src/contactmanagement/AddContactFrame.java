@@ -9,7 +9,6 @@ public class AddContactFrame extends javax.swing.JFrame {
 
         private final DefaultTableModel model;
 
-
         public AddContactFrame(DefaultTableModel model) {
                 initComponents();
                 saveBtn.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
