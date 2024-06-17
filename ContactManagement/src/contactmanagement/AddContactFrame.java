@@ -15,7 +15,8 @@ public class AddContactFrame extends javax.swing.JFrame {
                 this.setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
                 this.model = model;     
         }
-      
+
+        
         @SuppressWarnings("unchecked")
         // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
         private void initComponents() {
