@@ -15,6 +15,7 @@ public class ContactManagementFrame extends javax.swing.JFrame {
 
         model = (DefaultTableModel) listContactTable.getModel();
 
+        
         listContactTable.getColumnModel().getColumn(0).setPreferredWidth(130);
         listContactTable.getColumnModel().getColumn(1).setPreferredWidth(0);
         listContactTable.getColumnModel().getColumn(2).setPreferredWidth(0);
