@@ -5,7 +5,6 @@ import java.awt.Cursor;
 import javax.swing.table.DefaultTableModel;
 
 
-
 public class AddContactFrame extends javax.swing.JFrame {
 
         private final DefaultTableModel model;
